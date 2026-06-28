@@ -40,3 +40,4 @@ Export Chat: Export your WhatsApp group chat as a .txt file (without media).
 Upload: Place the file in your project directory.
 
 Run: Run the analysis script to see the statistics and visualizations directly in your console.
+NOTEBOOK LINK: https://colab.research.google.com/drive/1Sh0TM-QTv_2i_JQrMO2Upeq--Mlk20R8?usp=sharing
